@@ -2,4 +2,4 @@
 Hola, aquest és el meu primer canvi
 En faig un altre
 i un altre canvi
-Exemple per rebase
+Exemple per rebase true
